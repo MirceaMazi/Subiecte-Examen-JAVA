@@ -1,0 +1,5 @@
+Candidatul Comsa Maria are media 9.3 si a aplicat la atatea specializari 1
+Candidatul Popa Adriana are media 9.9 si a aplicat la atatea specializari 1
+Candidatul Popescu Maria are media 9.0 si a aplicat la atatea specializari 2
+Candidatul Muntean Loredana are media 9.45 si a aplicat la atatea specializari 2
+Candidatul Pop Marcel are media 8.5 si a aplicat la atatea specializari 3

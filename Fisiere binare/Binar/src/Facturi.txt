@@ -1,0 +1,5 @@
+George,20,1500
+Mihai,12,1200
+Costel,34,1300
+Gianina,50,2000
+Paul,40,100

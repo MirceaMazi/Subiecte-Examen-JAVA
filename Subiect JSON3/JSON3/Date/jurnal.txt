@@ -1,0 +1,6 @@
+Nume sectie ORL, cod sectie 1, numar pacienti 2
+Nume sectie Cardiologie, cod sectie 2, numar pacienti 1
+Nume sectie Pneumologie, cod sectie 3, numar pacienti 0
+Nume sectie Ginecologie, cod sectie 4, numar pacienti 1
+Nume sectie Boli infectioase, cod sectie 5, numar pacienti 1
+Nume sectie Terapie intensiva, cod sectie 6, numar pacienti 2

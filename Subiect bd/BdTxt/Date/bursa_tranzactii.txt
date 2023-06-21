@@ -1,0 +1,12 @@
+1,BRD,vanzare,10,20
+2,ING,cumparare,12,40
+3,Raiffeisen,vanzare,20,400
+4,Apple,cumparare,1,50
+5,Microsoft,vanzare,40,55
+5,BRD,vanzare,5,232
+3,BRD,vanzare,2,501
+2,Raiffeisen,cumparare,11,303
+2,ING,cumparare,15,253
+1,BRD,vanzare,12,220
+1,Microsoft,vanzare,5,100
+4,Microsoft,cumparare,2,321

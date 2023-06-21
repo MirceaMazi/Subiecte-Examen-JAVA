@@ -1,0 +1,50 @@
+Fie datele de intrare (in directorul date\subiect1):
+
+a) Lista de produse (cod produs - intreg, denumire - string, pret - double) - fișier text de forma:
+1,Stafide 200g,6.03
+2,Seminte de pin 300g, 21.18
+...
+
+Denumirea produsului nu poate conține caracterul virgulă.
+
+b) Lista de tranzacții (cod produs, cantitate - intreg, tip - intrare / iesire) - fisier JSON de forma:
+[
+  {
+    "codProdus": 3,
+    "cantitate": 7,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 7,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 2,
+    "tip": "iesire"
+  }
+]
+
+Cerințe:
+
+1) Să se afișeze la consolă numărul de produse
+
+2) Să se afișeze la consolă lista de produse ordonate alfabetic.
+
+3) Să se scrie în fișierul text date\subiect1\lista.txt un raport de forma:
+Denumire Produs, Numar tranzactii
+
+Produsele trebuie să fie ordonate în ordinea descrescătoare
+a numărului de tranzacții.
+
+4) Să se afișeze la consolă valoarea totală a stocurilor.
+
+
+
+5) Să se implementeze funcționalitățile de server și client TCP/IP și să se
+execute următorul scenariu: componenta client trimite serverului un cod de produs
+iar componenta server va întoarce clientului valoarea stocului corespunzător.
+
+- server pe thread secundar
+- server-ul se oprește după ce a servit o conexiune

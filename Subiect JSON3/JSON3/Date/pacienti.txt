@@ -1,0 +1,7 @@
+5001017038491,Tomescu Victor,20,4
+6971203039183,Aldescu Marian,31,5
+2031104028491,Popescu Ion,42,6
+6031102324821,Dobrescu Simona,25,6
+5940708149312,Georgescu Cosmin,43,1
+6980404183813,Traian Nicolae,78,1
+3030103034823,Cornea Iulian,68,2

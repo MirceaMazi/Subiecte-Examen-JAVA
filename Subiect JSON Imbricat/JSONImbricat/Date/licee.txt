@@ -1,0 +1,10 @@
+1,Colegiul National Gheorghe Sincai,2
+1,140,2,56
+2,Colegiul National de Informatica Tudor Vianu,2
+1,240,5,56
+3,Colegiul National Sfantul Sava,3
+1,112,2,56,3,28
+4,Colegiul National Andrei Saguna Brasov,4
+1,84,2,84,3,84,7,28
+5,Colegiul National de Informatica Grigore Moisil Brasov,2
+1,140,5,28

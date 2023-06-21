@@ -1,0 +1,32 @@
+[
+  {
+    "cod_sectie": 1,
+    "denumire": "ORL",
+    "numar_locuri": 10
+  },
+  {
+    "cod_sectie": 2,
+    "denumire": "Cardiologie",
+    "numar_locuri": 7
+  },
+  {
+    "cod_sectie": 3,
+    "denumire": "Pneumologie",
+    "numar_locuri": 14
+  },
+  {
+    "cod_sectie": 4,
+    "denumire": "Ginecologie",
+    "numar_locuri": 5
+  },
+  {
+    "cod_sectie": 5,
+    "denumire": "Boli infectioase",
+    "numar_locuri": 18
+  },
+  {
+    "cod_sectie": 6,
+    "denumire": "Terapie intensiva",
+    "numar_locuri": 3
+  }
+]

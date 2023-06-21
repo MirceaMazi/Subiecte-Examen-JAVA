@@ -1,0 +1,4 @@
+1,Stafide 200g,6.03
+2,Seminte de pin300g,21.18
+3,Ceai verde Lipton,10.7
+4,Crema de branza 300g,12.54

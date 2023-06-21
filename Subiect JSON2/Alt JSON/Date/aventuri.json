@@ -1,0 +1,32 @@
+[
+  {
+    "cod_aventura" : 101,
+    "denumire" : "CATARARE",
+    "tarif" : 25.5,
+    "locuri_disponibile" : 15
+  },
+  {
+    "cod_aventura" : 102,
+    "denumire" : "TARARE",
+    "tarif" : 15.5,
+    "locuri_disponibile" : 20
+  },
+  {
+    "cod_aventura" : 103,
+    "denumire" : "ECHILIBRU",
+    "tarif" : 35.5,
+    "locuri_disponibile" : 25
+  },
+  {
+    "cod_aventura" : 104,
+    "denumire" : "TIROLIANA",
+    "tarif" : 55.5,
+    "locuri_disponibile" : 12
+  },
+  {
+    "cod_aventura" : 105,
+    "denumire" : "ALPINISM",
+    "tarif" : 65.5,
+    "locuri_disponibile" : 22
+  }
+]

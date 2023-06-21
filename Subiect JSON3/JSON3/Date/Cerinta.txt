@@ -1,0 +1,40 @@
+/*În fișierul date\sectii.json se găsesc informații privind secțiile unui spital de urgență.
+        Fisierul este structurat astfel:
+        [
+        {
+        "cod_sectie": 1,
+        "denumire": "ORL",
+        "numar_locuri":10
+        },
+        ...
+        ]
+        În fișierul date\pacienti.txt se află informații privind pacienții internați, câte o linie pentru fiecare pacient, astfel:
+        cnp_pacient, nume_pacient,varsta,cod_secție
+        ...
+        Cnp-ul este de tip long, numele este șir de caractere iar codul secției si varsta sunt intregi.
+
+        Să se scrie o aplicație Java care să îndeplinească următoarele cerințe:
+
+        1) Să afișeze la consolă lista secțiilor spitalului cu un număr de locuri strict mai mare decât 10
+        Punctaj: 1 punct.
+        Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+        2) Să afișeze la consolă lista secțiilor spitalului sortată descrescător după varsta medie a pacientilor internați pe secție.
+        Pentru fiecare secție se va afișa codul, denumirea, numărul de locuri și vârsta medie a pacienților.
+        Punctaj: 1 punct
+        Criteriu de acordare a punctajului: afișarea corectă la consolă
+
+        3) Să se scrie în fișierul text jurnal.txt un raport al internărilor pe secții, de forma:
+        cod_secție_1,nume secție_1,numar_pacienti_1
+        ...
+        Punctaj: 1 punct
+        Criteriu de acordare a punctajului: urmărirea fișierului raport.txt
+
+        4) Să implementeze funcționalitățile de server și client TCP/IP și să se execute următorul scenariu:
+        componenta client trimite serverului codul unei secții iar componenta server va întoarce clientului numărul de locuri libere.
+        Serverul se va opri după servirea unei cereri.
+
+        Punctaj:
+        1 punct - afișarea la consolă de către server a codului primit de la client
+        1 punct - afișarea la consolă de către client a numărului de locuri libere
+        Criteriu de acordare a punctajului: afișarea corectă la consolă*/

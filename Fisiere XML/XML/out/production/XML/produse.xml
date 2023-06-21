@@ -1,0 +1,27 @@
+<produse>
+    <produs>
+        <cod>1</cod>
+        <denumire>Stafide 200g</denumire>
+        <tranzactii>
+            <tranzactie tip="intrare" cantitate="10">Mirabela</tranzactie>
+            <tranzactie tip="iesire" cantitate="5"/>
+            <tranzactie tip="intrare" cantitate="6"/>
+        </tranzactii>
+    </produs>
+    <produs>
+        <cod>2</cod>
+        <denumire>Seminte de pin 300g</denumire>
+        <tranzactii>
+        </tranzactii>
+    </produs>
+    <produs>
+        <cod>3</cod>
+        <denumire>Ceai verde Lipton</denumire>
+        <tranzactii>
+            <tranzactie tip="intrare" cantitate="7"/>
+            <tranzactie tip="iesire" cantitate="2"/>
+            <tranzactie tip="iesire" cantitate="1"/>
+            <tranzactie tip="iesire" cantitate="1"/>
+        </tranzactii>
+    </produs>
+</produse>

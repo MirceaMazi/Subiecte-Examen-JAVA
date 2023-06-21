@@ -1,0 +1,52 @@
+[
+  {
+    "codProdus": 3,
+    "cantitate": 7,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 7,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 2,
+    "tip": "iesire"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 1,
+    "tip": "iesire"
+  },
+  {
+    "codProdus": 1,
+    "cantitate": 2,
+    "tip": "iesire"
+  },
+  {
+    "codProdus": 2,
+    "cantitate": 10,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 4,
+    "cantitate": 10,
+    "tip": "intrare"
+  },
+  {
+    "codProdus": 4,
+    "cantitate": 1,
+    "tip": "iesire"
+  },
+  {
+    "codProdus": 2,
+    "cantitate": 5,
+    "tip": "iesire"
+  },
+  {
+    "codProdus": 2,
+    "cantitate": 16,
+    "tip": "intrare"
+  }
+]

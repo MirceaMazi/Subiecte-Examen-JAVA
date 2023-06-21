@@ -1,0 +1,5 @@
+Denumire ALPINISM, nr locuri rezervate 2, suma incasata 131.0
+Denumire CATARARE, nr locuri rezervate 11, suma incasata 280.5
+Denumire ECHILIBRU, nr locuri rezervate 5, suma incasata 177.5
+Denumire TARARE, nr locuri rezervate 5, suma incasata 77.5
+Denumire TIROLIANA, nr locuri rezervate 9, suma incasata 499.5
